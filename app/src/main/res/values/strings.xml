@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SnakoTech</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="activity_base">activity_base</string>
+    <string name="activity_1">activity_1</string>
+    <string name="activity_2">activity_2</string>
+    <string name="activity_3">activity_3</string>
+    <string name="activity_4">activity_4</string>
+</resources>
